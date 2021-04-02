@@ -3,6 +3,6 @@
 
 *I have used Decision Tree and Random forest to check which suits best in predicting.
 
-*I got 90 and 94% accuracy respectively for predictions
+*Got 90 and 94% accuracy respectively for predictions by classifying patients dataset
 
 *It is also visualized in lot of aspects to best outcomes and well trained model.
