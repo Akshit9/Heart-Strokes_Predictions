@@ -1,4 +1,4 @@
-# Heart-Strokes_Predictions Overview:
+# Heart Strokes Predictions Overview:
 
 - Created a model to predict heart strokes of patients with help of patients health report.
 - Dataset used from kaggle platform.
