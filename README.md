@@ -1,5 +1,6 @@
 # Heart Strokes Predictions Overview:
 
+- This is a real time end to end Machine Learning Project which Predicts the patients heart storkes. 
 - Created a model to predict heart strokes of patients with help of patients health report.
 - Dataset used from kaggle platform.
 - Using Machine Learning algorithms to predict the strokes of patients based on there reports.
