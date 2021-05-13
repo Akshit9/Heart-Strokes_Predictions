@@ -62,4 +62,4 @@ Accuracy Scores
 
 Note: Don't miss this amazing model, definetly u miss something without checking it out.
 
-Keep in Touch !! https://www.linkedin.com/in/akshith-kumar-469857135/
+Keep in Touch !! https://www.linkedin.com/in/akshithkumar-05/
