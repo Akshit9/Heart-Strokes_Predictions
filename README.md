@@ -59,7 +59,3 @@ Accuracy Scores
 - Random Forest : 95 %
 - Decision Tree : 90 %
 
-
-Note: Don't miss this amazing model, definetly u miss something without checking it out.
-
-Keep in Touch !! https://www.linkedin.com/in/akshithkumar-05/
