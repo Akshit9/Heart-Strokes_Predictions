@@ -1,4 +1,4 @@
-# Heart Strokes Predictions Overview: (View App)[https://share.streamlit.io/akshit9/heart-strokes_predictions/heartstrokes-app.py]
+# Heart Strokes Predictions Overview: [View App](https://share.streamlit.io/akshit9/heart-strokes_predictions/heartstrokes-app.py)
 
 - This is a real time end to end Machine Learning Project which Predicts the patients heart storkes. 
 - Created a model to predict heart strokes of patients with help of patients health report.
